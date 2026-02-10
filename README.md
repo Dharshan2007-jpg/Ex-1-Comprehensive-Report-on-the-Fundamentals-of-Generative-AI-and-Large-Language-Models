@@ -71,7 +71,6 @@ Artificial Intelligence (AI) has evolved into one of the most influential techno
 
 Foundational Concepts of Generative AI
 
-
 <img width="684" height="682" alt="image" src="https://github.com/user-attachments/assets/34e73d19-f7be-4eb5-8330-770e3274c986" />
 
 
@@ -86,7 +85,6 @@ Generative Models and Their Types
 <img width="1248" height="680" alt="image" src="https://github.com/user-attachments/assets/205cb974-e17d-448e-af4b-2e3da4a74d18" />
 
 <img width="529" height="682" alt="image" src="https://github.com/user-attachments/assets/41b7e019-30ba-49ef-a12a-b1067e7c1da9" />
-
 
 Generative models are machine learning models specifically designed to generate new data samples by learning the joint probability distribution of the input data. These models attempt to capture the structure and variability present in training datasets so that newly generated outputs appear realistic and meaningful. Over time, several types of generative models have been developed, each based on different mathematical and architectural principles.
 
@@ -108,13 +106,7 @@ Large Language Models (LLMs)
 
 <img width="682" height="453" alt="image" src="https://github.com/user-attachments/assets/52fe9cad-3bbc-4e41-a0f6-b9569fa5708b" />
 
-
-
-
 <img width="1022" height="632" alt="image" src="https://github.com/user-attachments/assets/7cd17f8b-f05f-42d1-a5a1-e703b3ff773e" />
-
-
-
 
 A Large Language Model, commonly referred to as an LLM, is a deep neural network trained on massive volumes of textual data to understand and generate human language. LLMs are built using transformer architectures, which rely on self-attention mechanisms to model relationships between words and phrases across long contexts. The “large” aspect of LLMs refers to both the size of the training data and the number of parameters, often ranging from billions to trillions.
 
@@ -122,27 +114,15 @@ The construction of an LLM begins with extensive data collection from diverse so
 
 Evolution of Artificial Intelligence
 
-
-
-
 <img width="1216" height="653" alt="image" src="https://github.com/user-attachments/assets/30fe3cd0-4bf1-4aa8-bb8e-4f3275a05435" />
 
-
-
-
 <img width="684" height="379" alt="image" src="https://github.com/user-attachments/assets/0bd05ff8-f731-433e-adfb-448c289ab427" />
-
-
 
 The evolution of artificial intelligence reflects a gradual transition from symbolic reasoning systems to data-driven learning models. Early AI research focused on rule-based systems and logical reasoning, where intelligence was explicitly programmed using predefined rules. As computational power increased, machine learning approaches gained prominence, allowing systems to learn patterns from data rather than relying solely on human-defined logic. The introduction of neural networks and deep learning marked a turning point, enabling models to handle complex tasks such as image recognition and speech processing.
 
 The development of transformer architectures further accelerated AI progress by enabling scalable and efficient sequence modeling. This innovation laid the groundwork for modern LLMs and Generative AI systems. By 2024, AI had evolved into a multimodal, generative paradigm capable of producing text, images, audio, and video with remarkable realism. This evolutionary journey highlights how advancements in algorithms, data availability, and computing infrastructure collectively shaped the current landscape of Generative AI.
 
-
-
 Conclusion
-
-
 
 In conclusion, Generative AI represents a significant advancement in artificial intelligence, shifting the focus from analysis and prediction to creation and synthesis. Through generative models such as GANs, VAEs, transformers, and diffusion models, AI systems can generate realistic and context-aware content across multiple modalities. The rise of powerful AI tools in 2024 and the widespread adoption of Large Language Models underscore the importance of understanding how these systems function. For prompt engineering experiments, this conceptual knowledge is essential, as effective prompts directly influence the quality and relevance of generated outputs. By studying the foundations, models, tools, and evolution of AI, learners can better design prompts, evaluate AI behavior, and apply Generative AI responsibly in academic and professional contexts.
 
