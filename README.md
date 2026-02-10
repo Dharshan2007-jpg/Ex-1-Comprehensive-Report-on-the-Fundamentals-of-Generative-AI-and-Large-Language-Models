@@ -131,4 +131,4 @@ The development of transformer architectures further accelerated AI progress by 
 
 Result:
 
-thus the experiment is successfully finished
+Thus the experiment is successfully finished
